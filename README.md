@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dkorzeli ~ David Korzelius a Bsc. in Biological Science, hopefully soon to be exploring a Masters/Doctorate in Ocean Sciences in Marine Genomics 
+- 👀 I’m interested in the use of python to expedite analysis for the study of Genomics
+- 🌱 I’m currently learning Python and then more specifically Bio Python packages
+- 💞️ I’m looking to collaborate on potentially more Bio Python based Modules and packages
+- 📫 How you can reach me can be at dkorzeli@uci.edu
